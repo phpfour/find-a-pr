@@ -21,6 +21,11 @@ return [
         'laravel-filament' => [
             'filament',
         ],
+        'Laravel-Backpack' => [
+            'CRUD',
+            'BackupManager',
+            'PermissionManager',
+        ],
         'spatie' => [
             '.github', '7to5', 'ElasticsearchDSL', 'Laravel-Excel', 'Mailcoach', 'PHP-SQL-Parser', 'activitylog', 'advanced-nova-media-library',
             'analytics-reports', 'analytics-statistics', 'array-functions', 'array-to-xml', 'asset-helper', 'async', 'async-benchmark',
